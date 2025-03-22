@@ -12,8 +12,11 @@ This is a simple **Python-based Employee Database Management System** that store
 -> Persistent data storage in `employees.csv`
 
 ## Project Structure
-
-EmployeePayroll/ ├── employees.csv # Employee data file (auto-generated) ├── main.py # Main Python script
+```markdown
+EmployeePayroll/
+├── employees.csv # Employee data file (auto-generated)
+├── payroll.py # Main Python script
+```
 
 ## Requirements
 - Python 3
@@ -36,8 +39,15 @@ python payroll.py
 
 ## Notes
 -> All employee data is saved inside the EmployeePayroll/employees.csv file.
+
 -> Bonus and Deduction inputs are validated to accept only integers.
 
 ## Author
 MD Afzal Alam
+
+## License
+This project is open-source and free to use.
+```yaml
+Feel free to improve, update or use the code!
+```
 
